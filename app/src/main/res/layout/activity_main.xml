@@ -9,4 +9,21 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.londonappbrewery.iampoor.MainActivity">
 
+
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+     android:text="Hello Iam rich Not boor"
+     android:textSize="30sp"
+    android:textColor="#e7dddd"
+      android:layout_margin="30px"
+      android:background="@drawable/yk"
+
+
+
+    />
+
+
 </RelativeLayout>
+
